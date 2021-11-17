@@ -6,4 +6,3 @@ channels:
 dependencies:
   - bioconda::snakemake=6.10.0
   - bioconda::snakemake-minimal=6.10.0
-  - conda-forge::singularity=3.8.4
